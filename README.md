@@ -44,3 +44,10 @@ __Melhoria 1__, _Melhoria 1_
 Contribuidor principal: https://github.com/bellabeneveni
 
 [![Logo Github](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+## Cógido da função soma
+```javascript
+function soma(a, b) {
+    return a + b;
+}
+```
