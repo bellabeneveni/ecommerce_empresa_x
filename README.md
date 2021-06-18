@@ -40,3 +40,5 @@ __Melhoria 1__, _Melhoria 1_
 [Google](https://www.google.com)
 
 [https://www.linkedin.com](https://www.linkedin.com)
+
+Contribuidor principal: https://github.com/bellabeneveni
