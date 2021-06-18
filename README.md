@@ -42,3 +42,5 @@ __Melhoria 1__, _Melhoria 1_
 [https://www.linkedin.com](https://www.linkedin.com)
 
 Contribuidor principal: https://github.com/bellabeneveni
+
+[![Logo Github](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
