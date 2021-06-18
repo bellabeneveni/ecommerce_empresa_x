@@ -34,3 +34,9 @@ __Melhoria 1__, _Melhoria 1_
 #### Imagem externa
 
 ![Logo do Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1280px-Markdown-mark.svg.png)
+
+## Links interessantes: 
+
+[Google](https://www.google.com)
+
+[https://www.linkedin.com](https://www.linkedin.com)
